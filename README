@@ -1,0 +1,34 @@
+ESC pour quitter,
+il est possible de quitter uniquement a la fin de l'exec (tres mal foutu oui)
+ donc evitez les tests a +50 fourmis.
+
+EXE : visu_hex
+
+Au moment de l'execution un fichier image tex_00.xpm doit etre dans le dossier
+ courant (et non forcement dans le meme dossier que le visu_hex).
+Une image de base est fournie, vous pouvez la remplacer par n'importe quelle
+ autre image xpm, pensez a garder le meme nom.
+
+
+result.test :
+
+Pour ceux qui n'ont pas encore un executable fonctionnel ce fichier fait office
+ de mini demo.
+
+
+lem-in_gen : COPYRIGHT CMEHAY
+https://intra.42.fr/forum/#!/ALGO-1-001/Lem-In/Un-generateur-de-map
+
+J'y ai fait 2-3 modifs pour que les noeuds ne soient pas tous sur la diagonale
+ (visibilite nulle) et ajouter de nombreux noeuds sur les start et end
+ (afin de mieux voir la gestion du multi path).
+
+
+Ceci est un visu TEST, il n'a pas aspiration a avoir bonne gueule mais a tester
+ vos algos et a les ameliorer. Il est toujours plus gratifiant qu'un tas de
+ lignes "L-X" imbuvables.
+
+Merci de faire remonter les bugs, si vous avez besoin d'aide sur les algos
+ n'hesitez pas a me contacter (matin ci possible). uid = hdezier
+
+/*MADE BY LA MEUH*/
